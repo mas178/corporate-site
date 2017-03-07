@@ -1,0 +1,21 @@
+baseurl = "http://rational.works/"
+title = "Rational Works, Inc."
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[params]
+  title = "Rational Works, Inc."
+  description = '理にかなった仕事をしよう'
+  logo = "fa-diamond"
+  copyright = "Rational Works, Inc."
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/masaaki-inaba/"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:inaba@rational-works.jp"

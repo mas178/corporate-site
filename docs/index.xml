@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rational Works, Inc.</title>
+    <link>http://rational.works/index.xml</link>
+    <description>Recent content on Rational Works, Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rational Works, Inc.</copyright>
+    <atom:link href="http://rational.works/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://rational.works/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rational.works/about/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;社名&lt;/td&gt;
+&lt;td&gt;株式会社 ラショナル・ワークス&lt;br/&gt; (Rational Works, Inc.)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;設立&lt;/td&gt;
+&lt;td&gt;2015/10/02&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;役員&lt;/td&gt;
+&lt;td&gt;稲葉 理晃 (代表取締役社長)&lt;br/&gt;橋本 敏孝 (取締役)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;住所&lt;/td&gt;
+&lt;td&gt;〒151-0053 東京都 渋谷区 代々木 1-41-4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;事業内容&lt;/td&gt;
+&lt;td&gt;・自社プロダクト開発&lt;br/&gt;・コンサルティング (BPM, PMO, システム開発, Blockchain)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://rational.works/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rational.works/contact/</guid>
+      <description>&lt;ul class=&#34;icons&#34;&gt;
+
+	&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/masaaki-inaba/&#34; class=&#34;icon fa-linkedin&#34;&gt;&lt;span class=&#34;label&#34;&gt;linkedin&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+
+	&lt;li&gt;&lt;a href=&#34;mailto:inaba@rational-works.jp&#34; class=&#34;icon fa-envelope&#34;&gt;&lt;span class=&#34;label&#34;&gt;email&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
