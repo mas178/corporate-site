@@ -1,7 +1,15 @@
-# Corporate site
+# Rational Works, Inc.
 
-This is the corporate site of Rational Works, Inc.
+This is a repository for our corporate site.
 
-Powered by [Hugo](https://gohugo.io/) and [GitHub Pages](https://pages.github.com/).
+URL: http://rational.works
 
-Designed by [Dimension](http://themes.gohugo.io/dimension/). 
+Powered by [Hugo](https://gohugo.io/) + [GitHub Pages](https://pages.github.com/) and using a template "[Dimension](http://themes.gohugo.io/dimension/)". 
+
+## Memo for admin
+
+### build command
+
+```
+$ hugo --destination docs
+```
