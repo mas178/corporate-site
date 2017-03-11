@@ -8,8 +8,14 @@ Powered by [Hugo](https://gohugo.io/) + [GitHub Pages](https://pages.github.com/
 
 ## Memo for admin
 
-### build command
+##### Run for development
 
 ```
-$ hugo --destination docs
+$ hugo server --theme=dimension --buildDrafts
+```
+
+##### Generate website
+
+```
+$ hugo --theme=dimension --destination docs
 ```

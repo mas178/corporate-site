@@ -14,8 +14,3 @@ defaultContentLanguage = "en"
   medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/masaaki-inaba/"
-
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "mailto:inaba@rational-works.jp"
