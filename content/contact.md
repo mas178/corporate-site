@@ -5,6 +5,6 @@ draft = false
 +++
 
 <span class="fa fa-envelope"></span>
-inaba <font style="color: orange">(at)</font> rational-works <font style="color: orange">(dot)</font> jp
+inaba <font style="color: #E06D15">(at)</font> rational-works <font style="color: #E06D15">(dot)</font> jp
 
 {{< socialLinks >}}
